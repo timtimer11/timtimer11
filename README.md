@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
-<h3 align="center">A dedicated Data Scientist currently based in Kuala Lumpur</h3>
+<h3 align="center">Data Scientist currently based in Kuala Lumpur</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/xeL7IV370YcAAAAC/are-ya.gif">
 - 📝 I write articles on data science [https://medium.com/@timur99](https://medium.com/@timur99)
 
