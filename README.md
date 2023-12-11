@@ -4,7 +4,7 @@
 - 📝 Sometimes I write articles here: [https://medium.com/@timur99]
 
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/timur99s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timur99s" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/timur-kulbuzhev-1b7766195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/timur-kulbuzhev-1b7766195/" height="30" width="40" /></a>
