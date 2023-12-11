@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
-<h3 align="center">Data Scientist currently based in Kuala Lumpur</h3>
+<h4 align="left">Software Engineer/ML Engineer</h4>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/xeL7IV370YcAAAAC/are-ya.gif">
 - 📝 Sometimes I write articles here: [https://medium.com/@timur99]
 
