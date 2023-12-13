@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Timur</h1>
-<h4 align="left">Software Engineer/ML Engineer</h4>
+<h4 align="left">Software Engineer</h4>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/xeL7IV370YcAAAAC/are-ya.gif">
 - 📝 Sometimes I write articles here: [https://medium.com/@timur99]
 
