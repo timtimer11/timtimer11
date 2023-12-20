@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Timur</h1>
-<h4 align="left">Software Engineer</h4>
+<h1 align="left">Hello</h1>
+<h4 align="left">Data Scientist</h4>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/xeL7IV370YcAAAAC/are-ya.gif">
 - 📝 Sometimes I write articles here: [https://medium.com/@timur99]
 
@@ -8,8 +8,7 @@
 <p align="left">
 <a href="https://twitter.com/timur99s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timur99s" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/timur-kulbuzhev-1b7766195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/timur-kulbuzhev-1b7766195/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23007774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23007774" height="30" width="40" /></a>
-<a href="https://kaggle.com/timtimer11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="timtimer11" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23007774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23007774" height="30" width="40" />
 <a href="https://leetcode.com/timur_kl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/timur_kl/" height="30" width="40" /></a>
 </p>
 
