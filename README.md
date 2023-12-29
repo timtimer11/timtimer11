@@ -8,7 +8,6 @@
 <p align="left">
 <a href="https://twitter.com/timur99s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timur99s" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/timur-kulbuzhev-1b7766195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/timur-kulbuzhev-1b7766195/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23007774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23007774" height="30" width="40" />
 <a href="https://leetcode.com/timur_kl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/timur_kl/" height="30" width="40" /></a>
 </p>
 
