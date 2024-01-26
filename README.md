@@ -1,5 +1,5 @@
 <h4 align="left">Data Scientist</h4>
-<iframe src="https://giphy.com/embed/Zy7s96dP38MlQe3OjG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-Zy7s96dP38MlQe3OjG">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/Zy7s96dP38MlQe3OjG">
 - 📝 Sometimes I write articles here: [https://medium.com/@timur99]
 
 
