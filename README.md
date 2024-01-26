@@ -1,5 +1,5 @@
 <h4 align="left">Data Scientist</h4>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Zy7s96dP38MlQe3OjG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reaction-Zy7s96dP38MlQe3OjG">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/Zy7s96dP38MlQe3OjG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-Zy7s96dP38MlQe3OjG">via GIPHY</a></p>
 - 📝 Sometimes I write articles here: [https://medium.com/@timur99]
 
 
