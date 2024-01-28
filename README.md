@@ -1,8 +1,4 @@
-<h3 align="left">Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRwYjZwcWV2cWRjbjFsZno4d2J6em05dDJkZXQzeHJ2aGcxZWo0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zy7s96dP38MlQe3OjG/giphy.gif">
-
-- 📝 Sometimes I write articles here: [https://medium.com/@timur99]
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
